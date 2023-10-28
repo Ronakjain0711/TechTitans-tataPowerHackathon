@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/scenes/board/Board.gd" type="Script" id=1]
+
+[node name="Board" type="Control"]
+margin_right = 297.0
+margin_bottom = 398.0
+script = ExtResource( 1 )
